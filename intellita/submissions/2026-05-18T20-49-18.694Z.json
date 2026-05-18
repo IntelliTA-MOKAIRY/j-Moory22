@@ -1,0 +1,33 @@
+{
+  "activity_id": 1,
+  "activity_title": "Counter Lab",
+  "score": 100,
+  "max_score": 100,
+  "submitted_at": "2026-05-18T20:49:18.694Z",
+  "checkpoints": [
+    {
+      "id": 1,
+      "title": "What is the primary function of the SSH protocol?",
+      "type": "mcq",
+      "passed": false
+    },
+    {
+      "id": 2,
+      "title": "To access the virtual machine from the terminal, you **must** enter the path phrase that was entered when the key pair was created.",
+      "type": "true_false",
+      "passed": false
+    },
+    {
+      "id": 3,
+      "title": "The command `ps-ef` is used to filter the process for **engine x**, which is run by the user called `___________`.",
+      "type": "fill_blank",
+      "passed": false
+    },
+    {
+      "id": 4,
+      "title": "What is the final step after completing the lab?",
+      "type": "mcq",
+      "passed": false
+    }
+  ]
+}
